@@ -69,10 +69,7 @@ public class Test1 {
         Assert.assertTrue(message.isDisplayed());
         Assert.assertEquals(actual,expected);
 
-
-
-
-
-
+        System.out.println("this one for github");
     }
 }
+
