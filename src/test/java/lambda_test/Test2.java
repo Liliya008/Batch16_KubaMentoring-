@@ -10,6 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Select;
 
+import java.sql.SQLOutput;
 import java.time.Duration;
 import java.util.List;
 import java.util.TreeMap;
@@ -67,6 +68,7 @@ public class Test2 {
 
             }
             System.out.println("map = " + map);
+            System.out.println("check");
         }
         }
 
